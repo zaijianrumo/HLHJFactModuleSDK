@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/zaijianrumo/HLHJFactModuleSDK"
   s.source       = { :git => "https://github.com/zaijianrumo/HLHJFactModuleSDK.git", :tag => "1.0.0"  }
-  #s.source_files = "HLHJFactModuleSDK/*.{h,m}"
+  s.source_files = "HLHJFactModuleSDK"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "zaijianrumo" => "2245190733@qq.com" }
   s.requires_arc  = true
