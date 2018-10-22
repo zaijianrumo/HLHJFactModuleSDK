@@ -1,0 +1,6 @@
+framework module HLHJFactModuleSDK {
+  umbrella header "HLHJFactModuleSDK.h"
+
+  export *
+  module * { export * }
+}
